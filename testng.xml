@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<!--<parameter name="testfile"  value="/net/slc09xpu/scratch/yshu/test_file.xml"/>-->
+  <test name="Test">
+      <classes>
+            <class name="seletest.SeleTest"/>
+                </classes>
+                  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
